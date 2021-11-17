@@ -1,0 +1,9 @@
+.alpackages/*
+debug.log
+*.app
+.vscode/launch.json
+.vscode/rad.json
+.vscode/.alcache/*
+.vscode/.altemplates/*
+.snapshots/*
+app.json
