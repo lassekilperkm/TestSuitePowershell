@@ -6,6 +6,7 @@ $ServerInstance = "myServerInstance"
 $Database_name = "myDatabase"
 $Domain = "myDomain"
 $NAVVersion = 'a' #a = Business Central AL (BC19), b = Business Central CAL (BC14), n = NAV 2018
+$TargetMachine = "localhost" #the service tier computer/server
 
 function Initialize-TestSuite
 {
